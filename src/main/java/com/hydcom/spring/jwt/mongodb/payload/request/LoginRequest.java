@@ -1,4 +1,4 @@
-package com.bezkoder.spring.jwt.mongodb.payload.request;
+package com.hydcom.spring.jwt.mongodb.payload.request;
 
 import jakarta.validation.constraints.NotBlank;
 

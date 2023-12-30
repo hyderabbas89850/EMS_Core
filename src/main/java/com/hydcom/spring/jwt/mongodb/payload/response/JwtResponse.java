@@ -1,4 +1,4 @@
-package com.bezkoder.spring.jwt.mongodb.payload.response;
+package com.hydcom.spring.jwt.mongodb.payload.response;
 
 import java.util.List;
 
