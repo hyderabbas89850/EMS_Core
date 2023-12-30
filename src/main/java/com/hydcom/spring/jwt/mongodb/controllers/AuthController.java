@@ -71,7 +71,7 @@ public class AuthController {
 		}catch (Exception e) {
 			res.setStatus(0);
 			res.setMessage(loginRequest.getUsername()+"  Bad credentials");
-			e.printStackTrace();
+			//e.printStackTrace();
 		}
 		
 		
